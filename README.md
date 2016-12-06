@@ -1,5 +1,4 @@
 # spreadsheetsprites
-regular and shiny pokemon sprites
 
 An early version of (what I consider) a more convenient version of [PokeSprite](https://github.com/msikma/pokesprite).
 
