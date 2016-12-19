@@ -340,6 +340,7 @@ granbull.png
 graveler-alola.png
 graveler.png
 greninja.png
+greninja-ash.png
 grimer-alola.png
 grimer.png
 grotle.png
@@ -1009,3 +1010,5 @@ zorua.png
 zubat.png
 zweilous.png
 zygarde.png
+zygarde-10-percent.png
+zygarde-complete.png
